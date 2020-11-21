@@ -1,10 +1,9 @@
-# Dicee 🎲
+# Dicee in blue 🎲
 
-# While building 
+![dicee-gif](https://user-images.githubusercontent.com/64004539/99886268-2b030480-2c61-11eb-97d7-dfe87f988ebc.gif)
 
-![](images/dicee%20app.jpg)
 
-# What we need at last ?
+# Dicee in red 🎲
 
 ![dicee-demo](https://user-images.githubusercontent.com/64004539/99867791-c99c5080-2be2-11eb-95d9-30452ecd502d.gif)
 
